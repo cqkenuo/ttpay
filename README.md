@@ -31,10 +31,10 @@ ttpay个人免签【支付宝、微信、云闪付】
   
 ### 测试
 
-本项目演示地址： [点此测试](https://ttpay.goodqp.com/)
+本项目演示地址： [点此测试](http://ttpay.goodqp.com/)
 
 ### 下载
-本项目源码下载： [点此下载](https://ttpay.goodqp.com/)
+本项目源码下载： [点此下载](http://ttpay.goodqp.com/)
 
 ### 声明
 
